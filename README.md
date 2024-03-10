@@ -54,3 +54,4 @@ Login to the Django admin on our deployed app on AWS Lightsail.
  12. [Build and publish posting app](https://github.com/LondonAppDeveloper/tutorial-django-aws-lightsail/compare/s10-get-django-admin-working...s12-build-publish-app?expand=1)
 
 Build and deploy our publish app to test media files.
+# thunderaws
