@@ -1,4 +1,4 @@
-# How to deploy a Django App to AWS Lightsail
+# How to deploy a Django App to AWS Lightsail2
 
 Code resources for the YouTube live stream: [How to deploy a Django App to AWS Lightsail](https://youtu.be/d7HU_jdzz7A).
 
