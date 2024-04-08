@@ -1,0 +1,7 @@
+docker build --tag stinkie/thunder:V2.1.3 .
+docker run --publish 8000:8000 stinkie/thunder:V2.1.3
+docker push stinkie/thunder:latest
+
+docker-compose build
+docker-compose up 
+```
