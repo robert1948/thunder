@@ -1,1 +1,1 @@
-web: gunicorn thunder.wsgi
+web: gunicorn app.wsgi
