@@ -16,6 +16,9 @@ services:
       - DB_NAME=django-dev-db
       - DB_USER=devuser
       - DB_PASS=devpassword123
+      - DB_PORT=5432
+      - ALLOWED_HOSTS = ['*', 0.0.0.0']
+      
     depends_on:
       database:
         condition: service_healthy
